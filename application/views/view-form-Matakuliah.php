@@ -22,14 +22,15 @@
     <th>Kode MTK</th>
     <th>:</th>
     <td>
-        <input type="text" name="kode" id="kode">
-</td>
+        <input type="text" name="kode" id="kode" placeholder="Required">
+        <div class="col-sm-6 col-danger"> <?= form_error('kode'); ?> </div>
 </tr>
 <tr>
     <th>Nama MTK</th>
     <td>:</td>
     <td>
-        <input type="text" name="nama" id="nama">
+        <input type="text" name="nama" id="nama" placeholder="Required">
+        <div class="col-sm-6 col-danger"> <?= form_error('nama'); ?> </div>
 </td>
 </tr>
 <tr>

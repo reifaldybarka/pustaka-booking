@@ -2,13 +2,13 @@
     <h1><?php echo $judul ?></h1>
     <h4>Nama</h4>
     <ul type="disc">
-        <li>Nama Depan : Reifaldy</li>
-        <li>Nama Belakang : Barka Ramadhan</li>
+        <li>Nama Depan : REIFALDY</li>
+        <li>Nama Belakang : BARKA RAMADHAN</li>
 </ul>
 <br>
     <h4>Alamat</h4>
     <ul type="none">
-        <li> Jalan Raya Dewi Sartika Depok</li>
+        <li> Kp.Belimbing Sawah, Jl.H.Usman,S. Kec.Pancoran Mas, Depok</li>
 </ul>
 
     <h4>Tempat lahir</h4>
